@@ -1,0 +1,313 @@
+Simulation Statistics
+=====================
+Step 1: 180 agents remaining
+Step 1: 180 moves made
+Step 2: 180 agents remaining
+Step 2: 180 moves made
+Step 3: 180 agents remaining
+Step 3: 180 moves made
+Step 4: 180 agents remaining
+Step 4: 180 moves made
+Step 5: 180 agents remaining
+Step 5: 180 moves made
+Step 6: 180 agents remaining
+Step 6: 180 moves made
+Step 7: 180 agents remaining
+Step 7: 180 moves made
+Step 8: 180 agents remaining
+Step 8: 180 moves made
+Step 9: 180 agents remaining
+Step 9: 180 moves made
+Step 10: 180 agents remaining
+Step 10: 180 moves made
+Step 11: 180 agents remaining
+Step 11: 176 moves made
+Step 12: 180 agents remaining
+Step 12: 178 moves made
+Step 13: 180 agents remaining
+Step 13: 178 moves made
+Step 14: 180 agents remaining
+Step 14: 179 moves made
+Step 15: 180 agents remaining
+Step 15: 179 moves made
+Step 16: 180 agents remaining
+Step 16: 180 moves made
+Agent 9838 exited at step 17
+Agent 9824 exited at step 17
+Agent 9926 exited at step 17
+Step 17: 177 agents remaining
+Step 17: 176 moves made
+Agent 9869 exited at step 18
+Agent 9954 exited at step 18
+Step 18: 175 agents remaining
+Step 18: 175 moves made
+Agent 9858 exited at step 19
+Step 19: 174 agents remaining
+Step 19: 172 moves made
+Agent 9835 exited at step 20
+Agent 9942 exited at step 20
+Step 20: 172 agents remaining
+Step 20: 170 moves made
+Agent 9928 exited at step 21
+Agent 9820 exited at step 21
+Agent 9924 exited at step 21
+Agent 9930 exited at step 21
+Agent 9951 exited at step 21
+Step 21: 167 agents remaining
+Step 21: 165 moves made
+Agent 9852 exited at step 22
+Agent 9911 exited at step 22
+Agent 9843 exited at step 22
+Agent 9945 exited at step 22
+Step 22: 163 agents remaining
+Step 22: 163 moves made
+Agent 9832 exited at step 23
+Agent 9910 exited at step 23
+Agent 9940 exited at step 23
+Step 23: 160 agents remaining
+Step 23: 159 moves made
+Agent 9956 exited at step 24
+Agent 9932 exited at step 24
+Agent 9844 exited at step 24
+Agent 9840 exited at step 24
+Agent 9827 exited at step 24
+Step 24: 155 agents remaining
+Step 24: 151 moves made
+Agent 9925 exited at step 25
+Agent 9902 exited at step 25
+Agent 9934 exited at step 25
+Agent 9831 exited at step 25
+Agent 9920 exited at step 25
+Step 25: 150 agents remaining
+Step 25: 147 moves made
+Agent 9915 exited at step 26
+Agent 9836 exited at step 26
+Agent 9863 exited at step 26
+Agent 9992 exited at step 26
+Agent 9867 exited at step 26
+Step 26: 145 agents remaining
+Step 26: 142 moves made
+Agent 9833 exited at step 27
+Agent 9919 exited at step 27
+Agent 9823 exited at step 27
+Agent 9950 exited at step 27
+Agent 9922 exited at step 27
+Step 27: 140 agents remaining
+Step 27: 139 moves made
+Agent 9913 exited at step 28
+Agent 9825 exited at step 28
+Agent 9896 exited at step 28
+Agent 9978 exited at step 28
+Step 28: 136 agents remaining
+Step 28: 133 moves made
+Agent 9999 exited at step 29
+Agent 9965 exited at step 29
+Agent 9917 exited at step 29
+Agent 9916 exited at step 29
+Agent 9826 exited at step 29
+Agent 9980 exited at step 29
+Agent 9879 exited at step 29
+Agent 9893 exited at step 29
+Step 29: 128 agents remaining
+Step 29: 126 moves made
+Agent 9909 exited at step 30
+Agent 9830 exited at step 30
+Agent 9927 exited at step 30
+Step 30: 125 agents remaining
+Step 30: 124 moves made
+Agent 9955 exited at step 31
+Agent 9998 exited at step 31
+Agent 9985 exited at step 31
+Agent 9996 exited at step 31
+Agent 9907 exited at step 31
+Agent 9875 exited at step 31
+Agent 9914 exited at step 31
+Agent 9994 exited at step 31
+Agent 9977 exited at step 31
+Step 31: 116 agents remaining
+Step 31: 113 moves made
+Agent 9941 exited at step 32
+Agent 9821 exited at step 32
+Agent 9929 exited at step 32
+Agent 9892 exited at step 32
+Agent 9948 exited at step 32
+Agent 9871 exited at step 32
+Step 32: 110 agents remaining
+Step 32: 103 moves made
+Agent 9883 exited at step 33
+Agent 9918 exited at step 33
+Agent 9864 exited at step 33
+Agent 9962 exited at step 33
+Agent 9923 exited at step 33
+Agent 9933 exited at step 33
+Step 33: 104 agents remaining
+Step 33: 100 moves made
+Agent 9949 exited at step 34
+Agent 9944 exited at step 34
+Agent 9884 exited at step 34
+Agent 9857 exited at step 34
+Agent 9841 exited at step 34
+Agent 9847 exited at step 34
+Step 34: 98 agents remaining
+Step 34: 95 moves made
+Agent 9986 exited at step 35
+Agent 9908 exited at step 35
+Agent 9990 exited at step 35
+Agent 9912 exited at step 35
+Agent 9981 exited at step 35
+Agent 9904 exited at step 35
+Step 35: 92 agents remaining
+Step 35: 84 moves made
+Agent 9982 exited at step 36
+Agent 9894 exited at step 36
+Agent 9881 exited at step 36
+Agent 9943 exited at step 36
+Agent 9995 exited at step 36
+Step 36: 87 agents remaining
+Step 36: 78 moves made
+Agent 9963 exited at step 37
+Agent 9860 exited at step 37
+Agent 9921 exited at step 37
+Agent 9856 exited at step 37
+Agent 9897 exited at step 37
+Agent 9895 exited at step 37
+Agent 9952 exited at step 37
+Step 37: 80 agents remaining
+Step 37: 73 moves made
+Agent 9958 exited at step 38
+Agent 9946 exited at step 38
+Agent 9859 exited at step 38
+Agent 9937 exited at step 38
+Agent 9960 exited at step 38
+Agent 9849 exited at step 38
+Agent 9854 exited at step 38
+Step 38: 73 agents remaining
+Step 38: 69 moves made
+Agent 9855 exited at step 39
+Agent 9953 exited at step 39
+Agent 9848 exited at step 39
+Step 39: 70 agents remaining
+Step 39: 66 moves made
+Agent 9988 exited at step 40
+Agent 9846 exited at step 40
+Agent 9976 exited at step 40
+Step 40: 67 agents remaining
+Step 40: 63 moves made
+Agent 9822 exited at step 41
+Agent 9903 exited at step 41
+Agent 9931 exited at step 41
+Agent 9901 exited at step 41
+Step 41: 63 agents remaining
+Step 41: 57 moves made
+Agent 9973 exited at step 42
+Agent 9938 exited at step 42
+Agent 9964 exited at step 42
+Agent 9968 exited at step 42
+Agent 9891 exited at step 42
+Agent 9850 exited at step 42
+Step 42: 57 agents remaining
+Step 42: 57 moves made
+Agent 9845 exited at step 43
+Agent 9874 exited at step 43
+Step 43: 55 agents remaining
+Step 43: 55 moves made
+Agent 9997 exited at step 44
+Agent 9961 exited at step 44
+Agent 9851 exited at step 44
+Step 44: 52 agents remaining
+Step 44: 51 moves made
+Agent 9989 exited at step 45
+Agent 9905 exited at step 45
+Agent 9880 exited at step 45
+Step 45: 49 agents remaining
+Step 45: 49 moves made
+Agent 9959 exited at step 46
+Agent 9853 exited at step 46
+Agent 9972 exited at step 46
+Step 46: 46 agents remaining
+Step 46: 46 moves made
+Agent 9861 exited at step 47
+Agent 9947 exited at step 47
+Step 47: 44 agents remaining
+Step 47: 43 moves made
+Agent 9898 exited at step 48
+Agent 9906 exited at step 48
+Agent 9935 exited at step 48
+Agent 9900 exited at step 48
+Step 48: 40 agents remaining
+Step 48: 39 moves made
+Agent 9971 exited at step 49
+Agent 9936 exited at step 49
+Agent 9839 exited at step 49
+Step 49: 37 agents remaining
+Step 49: 36 moves made
+Agent 9885 exited at step 50
+Agent 9889 exited at step 50
+Step 50: 35 agents remaining
+Step 50: 35 moves made
+Agent 9877 exited at step 51
+Agent 9966 exited at step 51
+Step 51: 33 agents remaining
+Step 51: 33 moves made
+Agent 9866 exited at step 52
+Agent 9979 exited at step 52
+Step 52: 31 agents remaining
+Step 52: 31 moves made
+Agent 9828 exited at step 53
+Agent 9842 exited at step 53
+Agent 9878 exited at step 53
+Agent 9984 exited at step 53
+Agent 9882 exited at step 53
+Step 53: 26 agents remaining
+Step 53: 26 moves made
+Agent 9991 exited at step 54
+Agent 9993 exited at step 54
+Step 54: 24 agents remaining
+Step 54: 24 moves made
+Agent 9888 exited at step 55
+Agent 9837 exited at step 55
+Step 55: 22 agents remaining
+Step 55: 22 moves made
+Agent 9970 exited at step 56
+Agent 9939 exited at step 56
+Agent 9872 exited at step 56
+Agent 9862 exited at step 56
+Agent 9890 exited at step 56
+Step 56: 17 agents remaining
+Step 56: 17 moves made
+Agent 9834 exited at step 57
+Step 57: 16 agents remaining
+Step 57: 16 moves made
+Agent 9876 exited at step 58
+Agent 9967 exited at step 58
+Agent 9873 exited at step 58
+Agent 9975 exited at step 58
+Step 58: 12 agents remaining
+Step 58: 12 moves made
+Agent 9829 exited at step 59
+Agent 9868 exited at step 59
+Agent 9957 exited at step 59
+Step 59: 9 agents remaining
+Step 59: 9 moves made
+Agent 9983 exited at step 60
+Agent 9870 exited at step 60
+Agent 9886 exited at step 60
+Step 60: 6 agents remaining
+Step 60: 6 moves made
+Agent 9865 exited at step 61
+Agent 9969 exited at step 61
+Step 61: 4 agents remaining
+Step 61: 4 moves made
+Agent 9899 exited at step 62
+Agent 9887 exited at step 62
+Agent 9974 exited at step 62
+Step 62: 1 agents remaining
+Step 62: 1 moves made
+Agent 9987 exited at step 63
+Step 63: 0 agents remaining
+Step 63: 0 moves made
+
+Simulation Complete
+Total Steps: 63
+Initial Agents: 180
+Agents Exited: 180
