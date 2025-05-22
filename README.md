@@ -10,5 +10,7 @@ Implementacja wykonana jest w języku Python z wykorzystaniem biblioteki Mesa. <
 Python 3.12 <br>
 Mesa 2.1.5 `pip install mesa` <br>
 ## Użycie
-`python simulation.py`
+`python simulation.py` do uruchomienia symulacji
+`python xvis.py` do stowrzenia wykresów na podstawie odbytych symulacji
+
 
