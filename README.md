@@ -1,4 +1,4 @@
-# Crowd Simulation - Symulacja Systemów Dyskretnych
+# Projekt na zajęcia modelowanie i symulacja systemów (2IS131-SEP, 2IS132-TBD)
 
 ## Opis
 Celem projektu jest modelowanie zachowań ludzi podczas ewakuacji i analiza różnych scenariuszy ewakuacyjnych. <br>
